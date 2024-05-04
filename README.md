@@ -1,4 +1,9 @@
 ### Hi there 👋
+About me:
+- 🔭 I’m a data scientist currently working on recommender systems using Matrix Factorization and Graph Embeddings
+- 🛠️ I've built transformer models for 3d motion prediction tasks
+- 🌱 I’m currently learning AI for robotics
+- 🐝 Georgia Tech
 
 <!--
 **edshieh/edshieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
