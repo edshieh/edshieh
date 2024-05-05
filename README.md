@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Edmund 👋
 About me:
 - 🔭 I’m a data scientist currently working on recommender systems using Matrix Factorization and Graph Embeddings
 - 🛠️ I've built transformer models for 3d motion prediction tasks
